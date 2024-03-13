@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>wishlist_arpa</name>
+	<displayName><![CDATA[wishlist arpa]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[module de wishlist arpa3]]></description>
+	<author><![CDATA[Jimmy]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
